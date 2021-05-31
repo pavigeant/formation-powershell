@@ -1,0 +1,16 @@
+{
+    "employees": [
+        {
+            "name": "Alice",
+            "email": "alice@hydroquebec.com",
+        },
+        {
+            "name": "Bob",
+            "email": "bob@hydroquebec.com"
+        },
+        {
+            "name": "Claire",
+            "email": "claire@hydroquebec.com"
+        }
+    ]
+}
